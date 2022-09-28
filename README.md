@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MalikHassan512
-- 👀 I’m interested in MERN Stack 
-- 🌱 I’m currently learning React JS/ Native
-- 💞️ I’m looking to collaborate on React JS/ Native
+- 👋 Hi, I’m Malik Hassan
+- 👀 I’m React Native Developer 
+- 🌱 I’m currently working in Rapidzz Solutions which is one of the top company in Lahore
 - 📫 How to reach me - email: malikhasan51214@gmail.com
 
 <!---
